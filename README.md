@@ -1,2 +1,2 @@
 # sendemail
-send email
+run SendEmail.exe
